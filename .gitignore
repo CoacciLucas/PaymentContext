@@ -239,3 +239,16 @@ _Pvt_Extensions
  
 # FAKE - F# Make 
 .fake/ 
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+.dll
+.pdb
+.cache
+.exe
+PaymentContext/obj/project.packagespec.json

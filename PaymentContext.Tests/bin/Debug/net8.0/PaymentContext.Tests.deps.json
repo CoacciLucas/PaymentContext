@@ -362,7 +362,10 @@
           "PaymentContext.Shared": "1.0.0"
         },
         "runtime": {
-          "PaymentContext.Domain.dll": {}
+          "PaymentContext.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PaymentContext.Shared/1.0.0": {
@@ -370,7 +373,10 @@
           "Flunt": "2.0.5"
         },
         "runtime": {
-          "PaymentContext.Shared.dll": {}
+          "PaymentContext.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {

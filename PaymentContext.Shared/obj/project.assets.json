@@ -34,19 +34,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lucascvasconcelos\\.nuget\\packages\\": {}
+    "C:\\Users\\Coacci\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\C#\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+      "projectUniqueName": "C:\\Dev\\.NET\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
       "projectName": "PaymentContext.Shared",
-      "projectPath": "C:\\Dev\\C#\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-      "packagesPath": "C:\\Users\\lucascvasconcelos\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\C#\\PaymentContext\\PaymentContext.Shared\\obj\\",
+      "projectPath": "C:\\Dev\\.NET\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+      "packagesPath": "C:\\Users\\Coacci\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\.NET\\PaymentContext\\PaymentContext.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lucascvasconcelos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Coacci\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -99,7 +99,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
