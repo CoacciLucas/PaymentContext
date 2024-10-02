@@ -117,3 +117,7 @@ packages/
 /PaymentContext/bin/Debug
 /PaymentContext/obj/Debug
 /PaymentContext/bin/Debug/net8.0
+PaymentContext/bin/Debug/net8.0/PaymentContext.exe
+PaymentContext/obj/Debug/net8.0/PaymentContext.AssemblyInfo.cs
+bj/Debug/net8.0/PaymentContext.AssemblyInfoInputs.cache
+PaymentContext/obj/Debug/net8.0/refint/PaymentContext.dll
