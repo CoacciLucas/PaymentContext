@@ -118,3 +118,5 @@ packages/
 *.pdb
 *.cache
 /PaymentContext/obj/Debug
+/PaymentContext/bin/Debug/net8.0
+/PaymentContext/bin/Debug/net8.0
