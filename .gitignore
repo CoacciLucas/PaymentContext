@@ -252,3 +252,6 @@ _Pvt_Extensions
 .cache
 .exe
 PaymentContext/obj/project.packagespec.json
+/.idea/.idea.PaymentContext
+/.idea/.idea.PaymentContext/.idea
+.idea/.idea.PaymentContext/.idea/workspace.xml
