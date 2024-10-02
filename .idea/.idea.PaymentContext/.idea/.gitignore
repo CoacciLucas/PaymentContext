@@ -82,10 +82,32 @@ $RECYCLE.BIN/
 
 # JetBrains Rider settings
 .idea/
+workspace.xml
 
 # Package directories (NuGet, npm, etc.)
 packages/
 .nuget/
 
-# Rider/IntelliJ workspace files
-workspace.xml
+# Log files
+*.log
+*.tlog
+*.cache
+
+# Debug files
+*.pdb
+
+# Executables
+*.exe
+
+# Libraries
+*.dll
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.csproj.user
+
+# Auto-generated files
+*.AssemblyInfo.cs
+*.Designer.cs

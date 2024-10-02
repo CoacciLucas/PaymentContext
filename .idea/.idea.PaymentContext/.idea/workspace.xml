@@ -11,59 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f357776f-8404-496a-a41a-3b6d2cc38d3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Domain/Commands/CommandResult.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Domain/Handlers/SubscriptionHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Domain/Interfaces/IStudentRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Domain/Queries/StudentQueries.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Domain/Repositories/StudentRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Domain/Services/IEmailService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Shared/Commands/ICommandResult.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Shared/Handlers/IHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Tests/Handlers/FakeEmailService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Tests/Handlers/SubscriptionHandlerTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Tests/Mocks/FakeStudentRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaymentContext.Tests/Queries/StudentQuerieTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/Entities/BoletoPayment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/Entities/BoletoPayment.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Shared.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/bin/Debug/net8.0/PaymentContext.Shared.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/PaymentContext.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/ref/PaymentContext.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/ref/PaymentContext.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/refint/PaymentContext.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Domain/obj/Debug/net8.0/refint/PaymentContext.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Shared/bin/Debug/net8.0/PaymentContext.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Shared/bin/Debug/net8.0/PaymentContext.Shared.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Shared/bin/Debug/net8.0/PaymentContext.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Shared/bin/Debug/net8.0/PaymentContext.Shared.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/PaymentContext.Shared.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/ref/PaymentContext.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/ref/PaymentContext.Shared.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/refint/PaymentContext.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Shared/obj/Debug/net8.0/refint/PaymentContext.Shared.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_PaymentContext.Tests" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_PaymentContext.Tests" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Shared.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Shared.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/bin/Debug/net8.0/PaymentContext.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/PaymentContext.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/ref/PaymentContext.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/ref/PaymentContext.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/refint/PaymentContext.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.Tests/obj/Debug/net8.0/refint/PaymentContext.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaymentContext.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentContext.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PaymentContext/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PaymentContext/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
