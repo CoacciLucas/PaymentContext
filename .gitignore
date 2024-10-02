@@ -111,3 +111,10 @@ packages/
 # Auto-generated files
 *.AssemblyInfo.cs
 *.Designer.cs
+*.xml
+*.dll
+*.pdb
+/PaymentContext/bin/Debug
+*.pdb
+*.cache
+/PaymentContext/obj/Debug
