@@ -1,0 +1,28 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003A02000002_002Eil_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FUsers_003Flucascvasconcelos_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003FILViewer_003F3b36453d0ecd482aba654155b5683585ec00_003Fa4_003Fb5aa5f3c_003F02000002_002Eil/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssert_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FUsers_003Flucascvasconcelos_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fdf3a5d166359f3be77c6a4c18d8b451173aecfe3a6673cbe1545fdc424a40_003FAssert_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AContract_00601_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FUsers_003Flucascvasconcelos_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F3b36453d0ecd482aba654155b5683585ec00_003F2e_003Fe6c5b757_003FContract_00601_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ANotifiable_00601_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FUsers_003Flucascvasconcelos_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F3b36453d0ecd482aba654155b5683585ec00_003Fa1_003Fbc5a83e9_003FNotifiable_00601_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ATestMethodInfo_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003FUsers_003Flucascvasconcelos_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F98c377d82be4c36912d3e59d6d7e2a55a14898ee9757311a192711c5f4115e7_003FTestMethodInfo_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=18793cb8_002Dcb8a_002D4eea_002Dac54_002Dba36447a69c8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from StudentTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;27BDF3E2-5A77-46B4-BE83-E4BBDAA7128A/d:Entities/f:StudentTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;MSTest::27BDF3E2-5A77-46B4-BE83-E4BBDAA7128A::net8.0::PaymentContext.Tests.Commands.CreateBoletoSubscriptionCommandTests.ShouldReturnErrorWhenNameIsInvalid&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2b9795c5_002Dcd36_002D4c84_002D8f7f_002D429d1d02074e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenHadActiveSubscription" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::300DDDAB-2F6D-4559-AA89-9B0CF79F4E44::net8.0::PaymentContext.Tests.Entities.StudentTests.ShouldReturnErrorWhenHadActiveSubscription&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b23dbac1_002D5aed_002D4446_002D8b93_002D0b1335fb6ad0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DocumentTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;300DDDAB-2F6D-4559-AA89-9B0CF79F4E44/d:ValueObjects/f:DocumentTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;MSTest::300DDDAB-2F6D-4559-AA89-9B0CF79F4E44::net8.0::PaymentContext.Tests.Entities.StudentTests.ShouldReturnErrorWhenHadActiveSubscription&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;MSTest::300DDDAB-2F6D-4559-AA89-9B0CF79F4E44::net8.0::PaymentContext.Tests.Entities.StudentTests.ShouldReturnErrorWhenHadActiveSubscriptionAndHasNoPayment&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
