@@ -112,11 +112,8 @@ packages/
 *.AssemblyInfo.cs
 *.Designer.cs
 *.xml
-*.dll
-*.pdb
+
+# Ignore specific directories in your project
 /PaymentContext/bin/Debug
-*.pdb
-*.cache
 /PaymentContext/obj/Debug
-/PaymentContext/bin/Debug/net8.0
 /PaymentContext/bin/Debug/net8.0
