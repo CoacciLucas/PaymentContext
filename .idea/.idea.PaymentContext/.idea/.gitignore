@@ -86,3 +86,6 @@ $RECYCLE.BIN/
 # Package directories (NuGet, npm, etc.)
 packages/
 .nuget/
+
+# Rider/IntelliJ workspace files
+workspace.xml
