@@ -13,3 +13,4 @@ C:\Dev\C#\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.D
 C:\Dev\C#\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\refint\PaymentContext.Domain.dll
 C:\Dev\C#\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.pdb
 C:\Dev\C#\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\ref\PaymentContext.Domain.dll
+C:\Dev\C#\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.sourcelink.json

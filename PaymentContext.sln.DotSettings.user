@@ -9,20 +9,11 @@
     &lt;ProjectFile&gt;27BDF3E2-5A77-46B4-BE83-E4BBDAA7128A/d:Entities/f:StudentTests.cs&lt;/ProjectFile&gt;&#xD;
     &lt;TestAncestor&gt;&#xD;
       &lt;TestId&gt;MSTest::27BDF3E2-5A77-46B4-BE83-E4BBDAA7128A::net8.0::PaymentContext.Tests.Commands.CreateBoletoSubscriptionCommandTests.ShouldReturnErrorWhenNameIsInvalid&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;MSTest::27BDF3E2-5A77-46B4-BE83-E4BBDAA7128A::net8.0::PaymentContext.Tests.Handlers.SubscriptionHandlerTests.ShouldReturnErrorWhenDocumentExists&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;MSTest::27BDF3E2-5A77-46B4-BE83-E4BBDAA7128A::net8.0::PaymentContext.Tests.Queries.StudentQuerieTests.ShouldReturnNullWhenDocumentNotExists&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;27BDF3E2-5A77-46B4-BE83-E4BBDAA7128A/d:Queries/f:StudentQuerieTests.cs&lt;/ProjectFile&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2b9795c5_002Dcd36_002D4c84_002D8f7f_002D429d1d02074e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnErrorWhenHadActiveSubscription" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;MSTest::300DDDAB-2F6D-4559-AA89-9B0CF79F4E44::net8.0::PaymentContext.Tests.Entities.StudentTests.ShouldReturnErrorWhenHadActiveSubscription&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b23dbac1_002D5aed_002D4446_002D8b93_002D0b1335fb6ad0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DocumentTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Or&gt;&#xD;
-    &lt;ProjectFile&gt;300DDDAB-2F6D-4559-AA89-9B0CF79F4E44/d:ValueObjects/f:DocumentTests.cs&lt;/ProjectFile&gt;&#xD;
-    &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;MSTest::300DDDAB-2F6D-4559-AA89-9B0CF79F4E44::net8.0::PaymentContext.Tests.Entities.StudentTests.ShouldReturnErrorWhenHadActiveSubscription&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;MSTest::300DDDAB-2F6D-4559-AA89-9B0CF79F4E44::net8.0::PaymentContext.Tests.Entities.StudentTests.ShouldReturnErrorWhenHadActiveSubscriptionAndHasNoPayment&lt;/TestId&gt;&#xD;
-    &lt;/TestAncestor&gt;&#xD;
-  &lt;/Or&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+	
+	</wpf:ResourceDictionary>

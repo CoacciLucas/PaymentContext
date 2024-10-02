@@ -115,3 +115,4 @@ C:\Dev\C#\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\refint\PaymentCon
 C:\Dev\C#\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.pdb
 C:\Dev\C#\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.genruntimeconfig.cache
 C:\Dev\C#\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\ref\PaymentContext.Tests.dll
+C:\Dev\C#\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.sourcelink.json

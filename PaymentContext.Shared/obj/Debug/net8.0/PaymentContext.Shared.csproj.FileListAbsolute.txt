@@ -10,3 +10,4 @@ C:\Dev\C#\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.S
 C:\Dev\C#\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\refint\PaymentContext.Shared.dll
 C:\Dev\C#\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.pdb
 C:\Dev\C#\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\ref\PaymentContext.Shared.dll
+C:\Dev\C#\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.sourcelink.json
